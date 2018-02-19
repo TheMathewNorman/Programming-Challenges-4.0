@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Character Counter</title>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+  <script scr="js/script.js"></script>
+</head>
+<body>
+    <div id="content">
+        <textarea id="input" placeholder="Enter text here..."></textarea><br>
+        <button onclick="countCharacters()">Count Characters</button>
+    </div>
+    
+    <script>
+    function countCharacters() {
+        var input = document.getElementById("input").value;
+        var total = 0;
+
+        var charCount = [];
+        for (var i = 0; i < input.length; i++) {
+            if (charCount[input.charAt(i)] == undefined) {
+                charCount[input.charAt(i)] = 1;
+            } else {
+                charCount[input.charAt(i)]++;
+            }
+
+            total++;
+        }
+
+        var output = '<button onclick="goBack()">Go back</button>';
+        for (var key in charCount) {
+            var percentage = ((charCount[key]/total) * 100).toFixed(2);
+
+            output += '<table><tr><th>Character</th><th>Occurence</th><th>% Occurence</th></tr>';
+            output += ("<tr><td>"+key+"</td><td>"+charCount[key]+"</td><td>"+percentage+"%</td></tr>");
+        }
+        document.getElementById("content").innerHTML = output;
+    }
+
+    function goBack() {
+        document.getElementById("content").innerHTML = '<textarea id="input" placeholder="Enter text here..."></textarea><br><button onclick="countCharacters()">Count Characters</button>';
+    }
+    </script>
+</body>
+</html>
