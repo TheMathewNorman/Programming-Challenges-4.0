@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+form {
+    font-size: 2em;
+}
+#length {
+    font-size: 0.8em;
+    padding: 5px;
+}
+#generate {
+    font-size: 0.6em;
+    padding: 10px 16px;
+}
+#password {
+    border: 1px dashed black;
+    display: none;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
