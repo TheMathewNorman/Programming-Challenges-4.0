@@ -32,3 +32,24 @@
 | 28   |                           Booru Client                           |  Difficult |
 | 29   |                          Key Press Bot                           |     Medium |
 | 30   |                      IP/URL Obsucrification                      |     Medium |
+| 31   |      Radix Base Converter (Convert a radix base to decimal)      |     Medium |
+| 32   |                         Chan aggregator                          |  Difficult |
+| 33   |                 Encrypt and upload a file online                 |     Medium |
+| 34   |      Make a text editor with autosave with date in filename      |  Difficult |
+| 35   |                 Create a HSV Colour Respresentor                 |       Easy |
+| 36   |                          Window Manager                          |     Medium |
+| 37   |                Basic Relational Database Software                |     Insane |
+| 38   |                           Pixel Editor                           |     Medium |
+| 39   |           Trivial File Transfer Protocol (TFTP) Client           |     Medium |
+| 40   |                         Markdown Editor                          |     Medium |
+| 41   |                      IP Tracking Visualiser                      |     Medium |
+| 42   |                           Port Scanner                           |       Easy |
+| 43   |                      Old School Demo Effect                      |       Easy |
+| 44   |                             FizzBuzz                             |       Easy |
+| 45   |                          RPN Calculator                          |       Easy |
+| 46   |            Count occurences of character in a string             |       Easy |
+| 47   |                         Towers of Hanoi                          |       Easy |
+| 48   |                         Music visualiser                         |     Medium |
+| 49   |                        Unicode Converter                         |     Medium |
+| 50   |               Calculate the first (n) digits of pi               |       Easy |
+| 51   |                 Least squares fitting algorithm                  |     Medium |
