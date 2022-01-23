@@ -83,3 +83,67 @@
 | 79   |                                   Basic Bootloader with Extended File System                                   |     Insane |
 | 80   |                     Terminal Shell (Executable Binaries, Piping, Redirection and History)                      |     Medium |
 | 81   |                                           HTML + JavaScript Debugger                                           |     Medium |
+| 82   |                              Write an Interpreted LISP-like Programming Language                               |     Medium |
+| 83   |                   An Application that can mount filesystems from other OSes using FUSE model                   |  Difficult |
+| 84   |                             Universal Asynchronous Receiver/Tranmitter (UART) Game                             |     Medium |
+| 85   |                                        Pong Game as EUFI file in Colour                                        |  Difficult |
+| 86   |                                          Design an Esoteric Language                                           |  Difficult |
+| 87   |                                                   C Compiler                                                   |  Difficult |
+| 88   |                                            Turing Machine Simulator                                            |  Difficult |
+| 89   |                              Read, Evaluate, Print Loop using a Compiled Language                              |  Difficult |
+| 90   |                   Static Website Generator (Scriptable Templates + Content to HTML and CSS)                    |     Medium |
+| 91   |                                                Chip-8 Emulator                                                 |     Medium |
+| 92   |                                           Double Pendulum Simulation                                           |     Medium |
+| 93   |                                          Constructive Solid Geometry                                           |     Medium |
+| 94   |                                                   Ray Tracer                                                   |  Difficult |
+| 95   |                              Real-time Fast Fourior Transform Spectrum Visualiser                              |  Difficult |
+| 96   |                             Generate a Complimentary Colour from any Input Colour                              |       Easy |
+| 97   |                      Generate a 5-Colour Scheme from the Most Dominate Tones in Any Image                      |     Medium |
+| 98   |                                        General Lambert's Problem Solver                                        |     Insane |
+| 99   |                                                 TI-86 Emulator                                                 |  Difficult |
+| 100  |                                                N-Body Simulator                                                |     Medium |
+| 101  |                                                 Eulerian Path                                                  |       Easy |
+| 102  |                                            Draw a Spinning 3D Cube                                             |       Easy |
+| 103  |                                               Cellular Textures                                                |       Easy |
+| 104  |                                                 Knight's Tour                                                  |     Medium |
+| 105  |                                       Monter Raising/Breeding Simulator                                        |  Difficult |
+| 106  |                                                     Tetris                                                     |     Medium |
+| 107  |                                                     Snake                                                      |       Easy |
+| 108  |                                                  Pipe Dreams                                                   |     Medium |
+| 109  |                                    Pac-Man with Different Ghost Behaviours                                     |     Medium |
+| 110  |                                        Dragon Quest / Basic RPG Engine                                         |  Difficult |
+| 111  |                                              Rock Paper Scissors                                               |       Easy |
+| 112  |                                         First-person Engine in OpenGL                                          |  Difficult |
+| 113  |                                   Shuffle a Deck of Cards with Visualisation                                   |     Medium |
+| 114  |                               Simulate a Game of Tag using a Multi-agent System                                |     Medium |
+| 115  |                                   Wolfenstein Clone (2D FPS that appears 3D)                                   |  Difficult |
+| 116  |                                              Scorched Earth Clone                                              |     Medium |
+| 117  |                                                  Minesweeper                                                   |     Medium |
+| 118  |                                       An Audio/Visual 64K Demonstration                                        |     Medium |
+| 119  |                                                     Sudoku                                                     |     Medium |
+| 120  |                                          Danmaku (Bullet Hell) Engine                                          |  Difficult |
+| 121  |                                       Roguelike Engine/Dungeon Generator                                       |  Difficult |
+| 122  |                                         Design a Game Engine in Unity                                          |       Easy |
+| 123  |                                                    Yahtzee                                                     |       Easy |
+| 124  |                                                   Oil Panic                                                    |       Easy |
+| 125  |                                                     Chess                                                      |     Medium |
+| 126  |                                                       Go                                                       |  Difficult |
+| 127  |                                                  Connect Four                                                  |       Easy |
+| 128  |                                                   Mastermind                                                   |     Medium |
+| 129  |                                              Missile Command Game                                              |     Medium |
+| 130  |                                                      Tron                                                      |     Medium |
+| 131  |                                                    Breakout                                                    |     Medium |
+| 132  |                                                     Simon                                                      |       Easy |
+| 133  |                                                LISP Interpreter                                                |  Difficult |
+| 134  |                                                  Ulam Spiral                                                   |       Easy |
+| 135  |                              Bellman-Ford Simulation with at least Five Vertices                               |     Medium |
+| 136  |                                               Matrix Arithmetic                                                |     Medium |
+| 137  |                                       File Compression Utility (w/ GUI)                                        |     Medium |
+| 138  |                                                   PDF Tagger                                                   |       Easy |
+| 139  |                                         Nonogram Generator and Solver                                          |  Difficult |
+| 140  |                                 Calculate Dot and Cross Product of Two Vectors                                 |     Medium |
+| 141  |                                                Bismuth Fractal                                                 |     Medium |
+| 142  |                                                  Seam Carving                                                  |     Medium |
+| 143  |                                                Bayesian Filter                                                 |     Medium |
+| 144  |                                            WMS Viewer NOT Web Based                                            |  Difficult |
+| 145  |                                              ASCII Digital Clock                                               |       Easy |
